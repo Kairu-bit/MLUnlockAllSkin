@@ -6,7 +6,7 @@
 ```bash
 cd $HOME
 pkg update
-pkg install git node -y
+pkg install git nodejs -y
 git clone https://github.com/Kairu-bit/MLUnlockAllSkin.git
 cd MLUnlockAllSkin
 node main.mjs
