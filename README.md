@@ -5,6 +5,7 @@
 # **Installation**
 ```bash
 cd $HOME
+termux-setup-storage
 pkg update
 pkg install git nodejs -y
 git clone https://github.com/Kairu-bit/MLUnlockAllSkin.git
