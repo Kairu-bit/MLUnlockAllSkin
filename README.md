@@ -7,7 +7,7 @@
 cd $HOME
 pkg update
 pkg install git node -y
-git clone https://github.com/Kairu-bit/MLUnlockAllSkin
+git clone https://github.com/Kairu-bit/MLUnlockAllSkin.git
 cd MLUnlockAllSkin
 node main.mjs
 ```
